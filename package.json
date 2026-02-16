@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.8.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.2",
+    "next-cloudinary": "^6.17.5",
+    "tailwindcss": "^4.1.18"
+  }
+}
